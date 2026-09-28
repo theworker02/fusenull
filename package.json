@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fusenull",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fuse HTML/Markdown null fragments safely for docs pipelines.",
+  "bin": {
+    "fusenull": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fusenull.git"
+  },
+  "homepage": "https://theworker02.github.io/fusenull/",
+  "keywords": [
+    "fuse",
+    "null",
+    "markup",
+    "cli",
+    "toolkit"
+  ]
+}
